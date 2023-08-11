@@ -47,7 +47,7 @@ print("The area is ",area)
 ---
 
 ###  Question 1.3: Loops and Conditionals
-Write a Python program to count and disply the number of <u>**s**</u> in the following string.
+Write a Python program to count and display the number of <u>**s**</u> in the following string.
 
 > "Seven silly snakes slithered slowly in the sun"
 
